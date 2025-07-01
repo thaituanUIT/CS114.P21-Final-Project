@@ -59,3 +59,11 @@ This repository contains the final projects for the **CS114.P11** class. It is o
 
 *   **Project 1: Handwritten Digits Classification**: Focuses on handwritten digits recognition using machine learning techniques.
 *   **Project 2: WeCode Score Prediction**: Aims to predict student performance in an introductory programming course based on their WeCode submission data.
+
+## Folder Structure
+```
+CS114.P11-Final-Projects/
+├── IT001_Predict/
+├── handwritten_digits_classification/
+└── hand_written_digit/
+```
